@@ -1,6 +1,5 @@
-#define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "point.h"
+#include "point.hpp"
 
 TEST_CASE("Creating the Point", "[constructor]")
 {
